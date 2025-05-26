@@ -7,12 +7,12 @@
 **CVE:** Not Assigned  
 **Severity:** Medium (Authentication Bypass by Default Credentials)  
 **CWE ID:** CWE-521  
-**Link Product:** https://codecanyon.net/item/rocket-lms-learning-management-academy-script/33120735
 **CWE Name:** Weak Password Requirements  
 **Patched:** ❌ Not Applicable  
 **Patch Priority:** 🟠 Medium  
 **Date Published:** May 27, 2025  
-**Researcher:** [https://medium.com/@naxtarrr/rocket-lms-shell-upload-vulnerability-c400665702f3](https://medium.com/@naxtarrr/rocket-lms-shell-upload-vulnerability-c400665702f3)
+**Researcher:** [https://medium.com/@naxtarrr/rocket-lms-shell-upload-vulnerability-c400665702f3](https://medium.com/@naxtarrr/rocket-lms-shell-upload-vulnerability-c400665702f3)  
+**Link Product:** https://codecanyon.net/item/rocket-lms-learning-management-academy-script/33120735
 
 ---
 
